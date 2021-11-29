@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://www.kino-teatr.ru/acter/album/549724/1085499.jpg",
+      "name": "Kendrick Lamar",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://dic.academic.ru/pictures/wiki/files/106/jason_statham_2007.jpg",
+      "name": "Jason Stetham",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed670179e384f0007b7db8f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1032%26cropX2%3D3642%26cropY1%3D186%26cropY2%3D2795",
+      "name": "Traviss Scott",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://i2.wp.com/cdn.vox-cdn.com/thumbor/THzRvmDZhyDpZ5eJL18jCwEupbU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19760981/offset_amas_2018_ix_billboard_1548.jpg",
+      "name": "Offset",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://img.championat.com/c/900x900/news/big/w/o/15-letnij-syn-vitalija-klichko-uzhe-pereros-198-santimetrovogo-vladimira-klichko-foto_159419691791413925.jpg",
+      "name": "Vitaliy Klichko",
+      "isOnline": false,
+      "id": 1284
+    }
+]
